@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ricardo and I'm a medical doctor
-- 👀 I’m interested in artificial intelligence in healthcare / cloud engeneering
+- 👀 I’m interested in artificial intelligence / machine learning engeneering
 - 🌱 I’m currently learning python, Git/GitHub, SQL and Django
 - 💞️ I’m looking to collaborate on any entry-level / junior project
 - 📫 How to reach me on Discord: @ricardomendes2101
